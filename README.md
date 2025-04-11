@@ -2,7 +2,8 @@
 
 ## Atividade Prática - API Busca CEP 🌎
 Consiste em, por meio do Node.js com Express e Axios, consumir APIs que tragam informações do CEP informado, possibilitando armazená-los em cache.
-Proposto pelo professor:
+
+Proposto pelo professor: \
 <i>Márcio Paulo Guedes</i> - Conceitos e Visão Geral de Full-stack
 
 ## 🛠️Uso
